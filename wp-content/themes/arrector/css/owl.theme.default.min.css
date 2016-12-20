@@ -1,0 +1,115 @@
+.owl-theme .owl-controls {
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:50px;
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-] {
+
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+}
+.owl-theme .owl-controls .owl-nav .disabled {
+	opacity: .5;
+	cursor: default
+}
+.owl-theme .owl-dots .owl-dot {
+	display: inline-block;
+	zoom: 1;
+	*display: inline
+}
+.owl-theme .owl-dots .owl-dot span {
+	width:11px;
+	height:11px;
+	background:#000000;
+	margin:0 3px;
+	display:inline-block;
+	box-shadow:none;
+	border:none;
+	border:1px solid #8c6239;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	background:#ffffff;
+}
+.thumb-part .owl-controls {
+	top:50%;
+	transform:translateY(-50%);
+	-webkit-transform:translateY(-50%);
+	-moz-transform:translateY(-50%);
+	-os-transform:translateY(-50%);
+	width:100%;
+	bottom:inherit;
+	left:0;
+}
+.partner-add .owl-controls{
+	display:none;
+}
+.owl-prev,
+.owl-next{
+	position:absolute;
+	width:7px;
+	height:14px;
+}
+.owl-prev{
+	left:-20px;
+	background-image:url(../images/slider_arrow.png);
+	background-repeat:no-repeat;
+	background-position:0px center;
+}
+.owl-next{
+	right:-20px;
+	background-image:url(../images/slider_arrow.png);
+	background-repeat:no-repeat;
+	background-position:-7px center;
+}
+.owl-prev:hover,
+.owl-next:hover{
+	opacity:0.5;
+}
+.slider_inr .owl-prev,
+.slider_inr .owl-next{
+	width:30px;
+	height:50px;
+	background-color:transparent;
+	border-radius:3px;
+	border:2px solid #fff;
+}
+.slider_inr .owl-prev{
+	left:-75px;
+}
+.slider_inr .owl-next{
+	right:-75px;
+}
+.slider_inr .owl-prev:hover,
+.slider_inr .owl-next:hover{
+	background-color:#000;
+	border-color:#000;
+}
+.green-slider .owl-prev:hover,
+.green-slider .owl-next:hover{
+	background-color:#000;
+	border-color:#000;
+}
+.owl-dots{
+	display:block;
+	text-align:center;
+}
+.custom2 .owl-controls{
+	top:50%;
+	transform:translateY(-50%);
+	-webkit-transform:translateY(-50%);
+	-moz-transform:translateY(-50%);
+	bottom:inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+

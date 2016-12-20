@@ -1,0 +1,271 @@
+/*Common responsive Css Used*/
+.felan .nterfield {
+    float: left;
+    width: 63.9%;
+}
+@media (max-width: 1199px) {
+	.separator{
+		width:100%;
+	}
+	.search_area input{
+		width:80%;
+	}
+	.property_cell .captext3{
+		top:50%;
+		transform:translateY(-50%);
+		-webkit-transform:translateY(-50%);
+		-moz-transform:translateY(-50%);
+		bottom:inherit;
+	}
+	.captext3 span{
+		margin:0 0 5px;
+	}
+	.captext3 p{
+		line-height:15px;
+	}
+	.felan .nterfield {
+	    float: left;
+	    width: 62.6%;
+	}
+}
+
+
+@media (max-width: 991px) {
+	.header_top{
+		padding:12px 0;
+	}
+	.search_area{
+		margin-top:10px;
+	}
+	.menu_part{
+		padding:8px 0;
+	}
+	.navbar-nav > li > a{
+		font-size:12px;
+	}
+	.captext_inr{
+		width:auto;
+	}
+	.caption_area,
+	.captext3{
+		bottom:inherit;
+		top:50%;
+		transform:translateY(-50%);
+		-webkit-transform:translateY(-50%);
+		-moz-transform:translateY(-50%);
+	}
+	.captext3 span{
+		margin:0 0 5px;
+	}
+	.captext3 p{
+		margin:0px 0 0;
+		padding:0 5px;
+		line-height:15px;
+	}
+	.footer_part ul{
+		min-height:290px;
+	}
+	.footer_btm{
+		margin-top:0;
+	}
+	.captext2 > span {
+		font-size: 12px;
+		margin: 0 0 8px;
+		height:20px;
+		overflow:hidden;
+	}
+	.red_text{
+		font-size:12px;
+		margin:2px 0;
+	}
+	.bold_text{
+		font-size:12px;
+	}
+	.captext2{
+		bottom:355px;
+	}
+	.intressea-outer .intrname1 {
+	    width: 45%;
+	}
+	.intressea-outer .nterfield {
+	    width: 55%;
+	}
+	.intressea-outer .intrname1 > h4 {
+	    font-size: 16px;
+	}
+	.right-fld .nterfield {
+	    width: 100%;
+	}
+	.felan .nterfield {
+	    float: left;
+	    width: 57.4%;
+	}
+}
+
+
+@media (max-width: 767px) {
+	.header_top .col-sm-7,
+	.header_top .col-sm-5{
+		float:left !important;
+		width:50% !important;
+	}
+	.nav > li > a{
+		padding:0;
+	}
+	.nav > li{
+		margin:5px 0;
+	}
+	.captext_inr h2{
+		font-size:30px;
+	}
+	.custom1 .owl-controls{
+		bottom:0;
+	}
+	.blog_pic{
+		margin-top:10px;
+	}
+	.quea_cell{
+		margin:0 0 15px;
+	}
+	.nyheter{
+		margin:15px 0 0;
+	}
+	.star_area p{
+		width:80%;
+	}
+	.quea_area .col-sm-4,
+	.blog_area .col-sm-4,
+	.btm_slider .col-sm-4{
+		width:33% !important;
+		float:left !important;
+	}
+	.btm_slider .col-sm-4{
+		width:50% !important;
+		float:left !important;
+	}
+	.bold_text{
+		font-size:12px;
+	}
+	.felan .nterfield {
+	    float: left;
+	    width: 100%;
+	}
+}
+
+
+@media (max-width: 600px) {
+	.quea_area .col-sm-4,
+	.blog_area col-sm-4{
+		width:100% !important;
+		float:none !important;
+	}
+	.btm_slider .col-sm-4{
+		width:100% !important;
+		float:left !important;
+	}
+	.header_top .col-sm-7, .header_top .col-sm-5 {
+		float: left !important;
+		width: 50% !important;
+	}
+	.caption_area{
+		margin:15px 0;
+		background:rgba(0,0,0,0.5);
+		position:static;
+		transform:inherit;
+		-webkit-transform:inherit;
+		-moz-transform:inherit;
+	}
+	.captext_inr{
+		padding:10px 15px 35px;
+		background:none;
+	}
+	.captext_inr h2{
+		font-size:18px;
+	}
+	.custom1 .owl-controls{
+		bottom:20px;
+	}
+	.slider_btm_part{
+		padding:25px 0;
+	}
+	h3{
+		font-size:17px;
+	}
+	.slider_btm_top p{
+		margin:15px 0 0;
+	}
+	.blog_area .col-sm-4{
+		float:none !important;
+		width:100% !important;
+	}
+	.blog_area{
+		padding:35px 0;
+	}
+	.separator{
+		margin:10px 0 0;
+	}
+	.blog_area h4{
+		font-size:16px;
+	}
+	.slider_top{
+		padding:
+	}
+	.star_area p,
+	.star_rating{
+		float:none !important;
+		width:100%;
+	}
+	.header_top .col-sm-7, 
+	.header_top .col-sm-5 {
+		float: none !important;
+		width: 100% !important;
+	}
+	.btm_slider{
+		padding:30px 0;
+	}
+	.footer_top .col-xs-4,
+	.footer_top .col-xs-6{
+		width:100% !important;
+		float:none !important;
+	}
+	.footer_part ul{
+		min-height:inherit;
+	}
+	.footer_part h5{
+		margin:0 0 15px;
+	}
+	.captext2 > span{
+		height: 15px;
+		margin: 0 0 5px;
+		overflow: hidden;
+		font-size:9px;
+	}
+	.price_area {
+		width: 187px;
+	}
+	.price_area a span {
+		font-size: 10px;
+		padding: 3px;
+	}
+	.price_area span.price_btn {
+		font-size: 10px;
+		padding: 3px;
+	}
+	.slider_top{
+		padding:40px 10px 15px;
+	}
+	.captext2{
+		bottom:inherit;
+		top:218px;
+	}
+    .intressea-outer .intrname1 > h4 {
+	    font-size: 14px;
+	    margin-bottom: 5px;
+	}
+	.intressea-outer .intrname1 {
+	    width: 100%;
+	}
+	.intressea-outer .nterfield {
+	    width: 100%;
+	}
+}

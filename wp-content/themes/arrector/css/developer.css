@@ -1,0 +1,189 @@
+.singlebanner img {
+    width: 100%;
+}
+.serachingpost {
+    float: right;
+    margin-top: -17px;
+}
+.navbar-nav li.current-menu-item > a{
+	color: #f92931;
+}
+.boxserch {
+    padding: 7px;
+}
+
+
+.properties .col-sm-4 {
+    margin: 0 0 30px;
+    position: relative;
+}
+.properties .col-sm-4:hover .overlay {
+    opacity: 1;
+    height: 100%;
+}
+img.proimg {
+    height: 297px;
+}
+img.homeproper {
+    height: 300px;
+}
+span.page-numbers.current {
+    z-index: 2;
+    cursor: default;
+    color: #fff;
+    background-color: #C60101;
+    border-color: #C60101;
+    position: relative;
+    float: left;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 3px;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 50px;
+    text-decoration: none;
+    border: 1px solid #C60101;
+    font-family: 'Raleway', sans-serif;
+}
+
+a.page-numbers {
+    position: relative;
+    float: left;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 3px;
+    color: #4697ce;
+    font-size: 14px;
+    border-radius: 50px;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #4797ce;
+    font-family: 'Raleway', sans-serif;
+}
+.custom2 .owl-controls{
+    bottom: inherit;
+    left: inherit;
+    right: 20px;
+    top: -25px;
+}
+.coninput {
+    width: 100%;
+    height: 46px;
+    border: 1px #c2c2c2 solid;
+    border-radius: 0px;
+    margin-bottom: 21px;
+    padding-left: 32px;
+}
+.frmsubm {
+    background: #1b1c20 !important;
+    width: 132px;
+    height: 52px;
+    text-transform: uppercase;
+    font-size: 20px !important;
+    color: #fff;
+    border-radius: 0px !important;
+    border: none;
+}
+.contxtar {
+    max-height: 205px;
+    width: 100%;
+    border: 1px #c2c2c2 solid;
+    border-radius: 0px;
+    margin-bottom: 21px;
+    padding-left: 32px;
+    padding-top: 20px;
+}
+.right-info h3 {
+    font-size: 20px !important;
+    text-transform: uppercase !important;
+    text-align: left !important;
+    margin-bottom: 10px !important;
+    font-family: 'Rockwell-Regular';
+}
+span.searchimage img {
+    padding-bottom: 13px;
+}
+.searchcont {
+    text-align: left;
+    padding-left: 0px;
+}
+.right-info p {
+    font-size: 14px !important;
+    color: #9d9d9d !important;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 10px !important;
+}
+h3.konth {
+    /* margin: 0 !important; */
+    margin-top: 23px;
+    color: #000;
+}
+.kontp {
+    float: left;
+    text-align: left;
+}
+.titl {
+       margin-bottom: 26px;
+}
+.introuter {
+    overflow: hidden;
+}
+.intrname {
+    float: left;
+    margin-right: 193px;
+}
+.nterfield {
+    float: left;
+        width: 46%;
+}
+.titl1 {
+    margin-bottom: 40px;
+    text-align: left;
+}
+.intrname1 {
+    float: left;
+    width: 200px;
+    text-align: left;
+    min-height: 15px;
+}
+.intressea-outer .right-fld .intrname1{
+	width: auto;
+}
+.intressea-outer .nterfield h4 {
+    margin: 25px 0 10px 0;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 700;
+}
+.intressea-outer h5 {
+    text-align: left;
+    font-weight: 800;
+    margin: 5px 0 15px 0;
+}
+.nterfield.subbtn,.nterfield.subbtn .frmsubm {
+    float: right;
+}
+.intressea-outer .intrname1{
+	width: 44%;
+}
+.intressea-outer .nterfield{
+	width: 56%;
+}
+.intressea-outer .contxtar{
+	padding: 7px;
+}
+div.wpcf7-validation-errors {
+    width: 50%;
+}
+div.w
+    width: 50%;
+}
+
+.fastighet_img img {
+    max-height: 300px;
+    min-height: 300px;
+}
